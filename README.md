@@ -12,6 +12,6 @@
 ![Image text](https://github.com/Hurdery/UIChain/blob/master/look/look.png)
 ![Image text](https://github.com/Hurdery/UIChain/blob/master/look/look1.png)
 
-# 核心累
+# 核心类
 ![Image text](https://github.com/Hurdery/UIChain/blob/master/look/look3.png)
 
