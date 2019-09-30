@@ -7,3 +7,11 @@
 #warning 今天代码先写到这吧，后续会继续完善更多组件与功能，loading...... waiting....
 
 #warning  今天是周一，明天就放假了，惊不惊喜，意不意外，啊哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈 while (@"哈") {NSLog(@"啊");}
+
+#  来来先看一波效果
+![Image text](https://github.com/Hurdery/UIChain/blob/master/look/look.png)
+![Image text](https://github.com/Hurdery/UIChain/blob/master/look/look1.png)
+
+# 核心累
+![Image text](https://github.com/Hurdery/UIChain/blob/master/look/look3.png)
+
